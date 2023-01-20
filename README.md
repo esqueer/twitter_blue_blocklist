@@ -1,5 +1,6 @@
 # twitter_blue_blocklist
 List of Twitter Blue Verified accounts that have less than 2000 followers
+Credit to https://github.com/travisbrown/blue for providing the full repository of twitter blue subscribers. 
 
 This list is current as of 1/20/2023. Will update periodically.
 
