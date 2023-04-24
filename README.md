@@ -1,5 +1,5 @@
 # twitter_blue_blocklist
-List of Twitter Blue Verified accounts that are active and excludes legacy verified accounts.I am leaving the original file with a filter of <2000 followers.
+List of Twitter Blue Verified accounts that are active and excludes legacy verified accounts. It's sorted by biggest follower numbers to smallest. I am leaving the original file with a filter of <2000 followers.
 
 Credit to https://github.com/travisbrown/blue for providing the full repository of twitter blue subscribers. 
 
