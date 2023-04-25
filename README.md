@@ -3,9 +3,9 @@ List of Twitter Blue Verified accounts that are active and excludes legacy verif
 
 There are 3 csv files in this repository:
 
-1. The original file I create with a filter of <2000 followers.
-2. The full active blue subscriber list excluding legacy verified sorted largest follower counts to smallest
-3. The full active blue subscriber list split into columns <5000 for easier input into blockpartyapp.
+1. The original file I create with a filter of <2000 followers.Twitter Blue Blocklist.csv 
+2. The full active blue subscriber list excluding legacy verified sorted largest follower counts to smallest. active_twitter_blue_subscribers_all-arr.xlsx
+3. The full active blue subscriber list split into columns <5000 for easier input into blockpartyapp. active_twitter_blue_subscribers_all.csv
 
 Credit to https://github.com/travisbrown/blue for providing the full repository of twitter blue subscribers. 
 
